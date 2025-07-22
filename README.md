@@ -1,4 +1,4 @@
-# 🧬 Panel VIH - Informe Clínico
+# 🧬 Panel VIH - Informe Clínico -
 
 Aplicación clínica en línea para interpretación y generación de informes PDF sobre resultados de test VIH, desarrollada en Streamlit.
 
